@@ -5,5 +5,5 @@ import { Component } from "@angular/core";
   templateUrl: "./hello.component.html"
 })
 export class HelloComponent {
-  titulo = "Hola";
+  titulo = "Hola Alex";
 }
